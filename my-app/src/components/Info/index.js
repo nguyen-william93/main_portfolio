@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function Info() {
   return (
-    <div className="container">
-      <div className="my-5"></div>
-      <div className="display-3" style={{ color: "white" }}>
+    <div className="container introduction">
+      <div className="ml-5"></div>
+      <div className="display-3 info" style={{ color: "white" }}>
         <span style={{ color: "white" }}>Hello, my name is</span> <br />
         William.
       </div>

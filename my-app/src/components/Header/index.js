@@ -8,19 +8,19 @@ export default function Header (){
             <ul className = 'nav justify-content-center'>
                 <li className = 'nav-item mx-4'>
                     <NavLink to="/" style={({ isActive }) => ({ 
-                         color: isActive ? 'white' : 'rgb(13,110,253)' })}>
+                         color: isActive ? 'white' : 'grey' })}>
                         Home
                     </NavLink>
                 </li>
                 <li className='nav-item mx-4'>
                     <NavLink to="/projects" style={({ isActive }) => ({ 
-                         color: isActive ? 'white' : 'rgb(13,110,253)' })}>
+                         color: isActive ? 'white' : 'grey' })}>
                         Projects
                     </NavLink>
                 </li>
                 <li className='nav-item mx-4'>
                     <NavLink to="/blog" style={({ isActive }) => ({ 
-                         color: isActive ? 'white' : 'rgb(13,110,253)' })}>
+                         color: isActive ? 'white' : 'grey' })}>
                         Blog
                     </NavLink>
                 </li>

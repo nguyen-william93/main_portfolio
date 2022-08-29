@@ -14,13 +14,19 @@ body {
   font-family: "Poppins", sans-serif !important;
 }
 
+.introduction {
+  margin-top: 5%
+}
+
 .code {
   font-family: "Source Code Pro", monospace;
+  margin-left: 8%;
 }
 
 .info {
   line-height: 1.4;
   width: 85%;
+  padding-left: 10%;
 }
 
 .social {
