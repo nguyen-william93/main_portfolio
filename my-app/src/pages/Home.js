@@ -1,11 +1,10 @@
 import React from 'react'
+import Info from '../components/Info'
 
 
 const Home = () => {
     return (
-        <main>
-            Home
-        </main>
+        <Info />
     )
 }
 
