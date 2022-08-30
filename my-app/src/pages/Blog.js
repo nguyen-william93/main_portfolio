@@ -4,7 +4,7 @@ import React from 'react'
 const Blog = () => {
     return (
         <main>
-            Blog!!
+            <p>Still in progress. Please stand by...</p>
         </main>
     )
 }
