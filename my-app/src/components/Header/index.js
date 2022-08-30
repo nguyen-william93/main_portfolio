@@ -4,7 +4,7 @@ import {NavLink} from 'react-router-dom'
 export default function Header (){
 
     return (
-        <div className='container my-3 navbar justify-content-center'>
+        <div className='container my-2 navbar justify-content-center'>
             <ul className = 'nav justify-content-center'>
                 <li className = 'nav-item mx-4'>
                     <NavLink to="/" style={({ isActive }) => ({ 
