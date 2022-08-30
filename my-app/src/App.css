@@ -18,6 +18,10 @@ body {
   margin-top: 5%
 }
 
+.navbar {
+  font-size: 120%;
+}
+
 .code {
   font-family: "Source Code Pro", monospace;
   margin-left: 8%;

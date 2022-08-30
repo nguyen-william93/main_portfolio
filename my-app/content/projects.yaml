@@ -1,0 +1,19 @@
+- title: Orignal Portfolio
+  subtitle: My orginal portfolio using Javascript
+  link: https://phitran.info/
+
+- title: Covid-19 Tracker
+  subtitle: Covid-19 tracker using React
+  link: https://nifty-ramanujan-405dcd.netlify.app/
+
+- title: Movies movies movies!
+  subtitle: A movie database created using React
+  link: https://moviesareawesome.netlify.app/
+
+- title: RGB Project
+  subtitle: A RGB game where users have to guess the given color of the RGB value
+  link: https://ptran12.github.io/Color-Game/
+
+- title: Rock, Paper, Scissors
+  subtitle: Relieve your Rock, Paper, Scissors itch here!
+  link: https://ptran12.github.io/Rock-Paper-Scissors/
