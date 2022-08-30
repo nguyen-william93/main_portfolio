@@ -9,7 +9,7 @@ export default function Header (){
                 <li className = 'nav-item mx-4'>
                     <NavLink to="/" style={({ isActive }) => ({ 
                          color: isActive ? 'white' : 'grey' })}>
-                        Home
+                        About me
                     </NavLink>
                 </li>
                 <li className='nav-item mx-4'>

@@ -1,5 +1,6 @@
 import React from 'react'
 import '../../App.css'
+import Typewriter from 'typewriter-effect'
 
 export default function Info() {
   return (
@@ -8,6 +9,20 @@ export default function Info() {
       <div className="display-3 info" style={{ color: "white" }}>
         <span style={{ color: "white" }}>Hello, my name is</span> <br />
         William.
+        <Typewriter
+            options={{
+              strings: [
+                '<h4>based in Austin, TX,</h4>',
+                '<h4>world-traveler, </h4>',
+                '<h4>learner,</h4>',
+                '<h4>adventurer.</h4>',
+              ],
+              cursor: '-',
+              deleteSpeed: 15,
+              autoStart: true,
+              loop: true,
+            }}
+          />
       </div>
       <div style={{ color: "rgb(6, 199, 6)" }} className="h1 code mt-4 mb-3">
         {"{"}
